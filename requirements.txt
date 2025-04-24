@@ -1,0 +1,10 @@
+fastapi
+spacy
+openai
+requests
+pydantic
+uvicorn[standard]
+python-dotenv # For loading .env files
+slowapi # For rate limiting
+pytest # For running tests
+cachetools # For in-memory caching
